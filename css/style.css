@@ -499,7 +499,7 @@ ul{
     background-size: 100% 100%;
     /* border-radius: 20%; */
     box-shadow: 0.08rem 0.015rem 0.06rem 0.3rem black;
-    animation:slider 20s infinite ease-in-out;
+    animation:slider 50s infinite ease-in-out;
 }
 @keyframes slider {
     0%{background-image: url(../img/maagood1.jpeg);}
