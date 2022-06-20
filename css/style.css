@@ -790,6 +790,10 @@ ul{
     .item {
         flex-direction: column-reverse;
     }
+    
+    .text-big1 {
+        font-size: 60px;
+    }
     .text-big{
         text-align: center;
     }
